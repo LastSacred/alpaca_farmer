@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+nata:
+  name: Natalama
+  sheared: false
+  sweaters_made: 0
+
+baldy:
+  name: Baldy
+  sheared: true
+  sweaters_made: 3
